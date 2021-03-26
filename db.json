@@ -1,7 +1,7 @@
 {
-  "id":0,
-  "description": "This is a SlapToken",
-  "external_url": "https://tba.com",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cartoon_Man_Being_Slapped_By_Money_From_The_Computer.svg",
-  "name": "Slap!"
+    "id": 0,
+    "description": "This is a SlapToken",
+    "external_url": "https://tba.com",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cartoon_Man_Being_Slapped_By_Money_From_The_Computer.svg",
+    "name": "Slap!"
 }
